@@ -105,6 +105,17 @@ Support the original developers by purchasing a license if using in production.
 
 ---
 
+## Installation
+
+```bash
+composer install --ignore-platform-reqs --no-dev --no-plugins --no-progress;
+
+npm install;
+gulp build;
+```
+
+---
+
 ## 🤝 Contributing
 
 Pull requests are welcome!  
